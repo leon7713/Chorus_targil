@@ -1,9 +1,8 @@
-from base.selenium_driver import SeleniumDriver
 import utilities.custom_logger as cl
 import logging
+from base.basepage import BasePage
 
-
-class LoginPage(SeleniumDriver):
+class LoginPage(BasePage):
     log = cl.customLogger(logging.DEBUG)
 
     def __init__(self, driver):
@@ -41,3 +40,6 @@ class LoginPage(SeleniumDriver):
     def verifyLoginFailed(self):
         result = self.isElementPresent(".alert.alert-danger", locatorType="css")
         return result
+
+    def verifyLoginTitle(self):
+        return self.verifyPageTitle("Let's Kode It")

@@ -8,7 +8,6 @@ Example:
     wdf = WebDriverFactory(browser)
     wdf.getWebDriverInstance()
 """
-import traceback
 import os
 from selenium import webdriver
 
@@ -22,15 +21,6 @@ class WebDriverFactory():
             None
         """
         self.browser = "chrome"
-    """
-        Set chrome driver and iexplorer environment based on OS
-
-        chromedriver = "C:/.../chromedriver.exe"
-        os.environ["webdriver.chrome.driver"] = chromedriver
-        self.driver = webdriver.Chrome(chromedriver)
-
-        PREFERRED: Set the path on the machine where browser will be executed
-    """
 
     def getWebDriverInstance(self):
         """
@@ -39,7 +29,8 @@ class WebDriverFactory():
         Returns:
             'WebDriver Instance'
         """
-        baseURL = "https://learn.letskodeit.com/"
+        # baseURL = "https://learn.letskodeit.com/"
+        baseURL = "https://www.eurosport.ru/"
         if self.browser == "iexplorer":
             # Set ie driver
             driver = webdriver.Ie()
@@ -47,7 +38,8 @@ class WebDriverFactory():
             driver = webdriver.Firefox()
         elif self.browser == "chrome":
             # Set chrome driver
-            driverLocation = "C:\\Users\\Leonidus\\IdeaProjects\\testselenium\\drivers\\chromedriver.exe"
+            driverLocation = "C:\\Users\\Leonidus\\IdeaProjects\\testselenium\\drivers\\chromedriver.exe" # set your
+            # path here
             os.environ["webdriver.chrome.driver"] = driverLocation
             driver = webdriver.Chrome(driverLocation)
             driver.maximize_window()
