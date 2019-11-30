@@ -1,96 +1,53 @@
-11/30/2019 04:41:52 PM - LoginPage - INFO: Element found with locator: Login and locatorType: link
-11/30/2019 04:41:52 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-11/30/2019 04:41:56 PM - LoginPage - INFO: Element found with locator: user_email and locatorType: id
-11/30/2019 04:41:56 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-11/30/2019 04:41:56 PM - LoginPage - INFO: Element found with locator: user_password and locatorType: id
-11/30/2019 04:41:56 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-11/30/2019 04:41:56 PM - LoginPage - INFO: Element found with locator: [name = commit] and locatorType: css
-11/30/2019 04:41:58 PM - LoginPage - INFO: Clicked on element with locator: [name = commit] locatorType: css
-11/30/2019 04:41:58 PM - LoginPage - INFO: Element found with locator: .alert.alert-danger and locatorType: css
-11/30/2019 04:41:58 PM - LoginPage - INFO: Element Found
-11/30/2019 04:42:03 PM - LoginPage - INFO: Element not found with locator: Login and locatorType: link
-11/30/2019 04:42:03 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
-11/30/2019 04:42:03 PM - LoginPage - INFO: Element found with locator: user_email and locatorType: id
-11/30/2019 04:42:03 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-11/30/2019 04:42:03 PM - LoginPage - INFO: Element found with locator: user_password and locatorType: id
-11/30/2019 04:42:03 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-11/30/2019 04:42:03 PM - LoginPage - INFO: Element found with locator: [name = commit] and locatorType: css
-11/30/2019 04:42:08 PM - LoginPage - INFO: Clicked on element with locator: [name = commit] locatorType: css
-11/30/2019 04:42:08 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title verified
-11/30/2019 04:42:08 PM - LoginPage - INFO: Element found with locator: gravatar and locatorType: class
-11/30/2019 04:42:08 PM - LoginPage - INFO: Element Found
-11/30/2019 04:42:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was not successful
-11/30/2019 04:42:08 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
-11/30/2019 04:46:11 PM - LoginPage - INFO: Element found with locator: Login and locatorType: link
-11/30/2019 04:46:11 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-11/30/2019 04:46:15 PM - LoginPage - INFO: Element found with locator: user_email and locatorType: id
-11/30/2019 04:46:15 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-11/30/2019 04:46:15 PM - LoginPage - INFO: Element found with locator: user_password and locatorType: id
-11/30/2019 04:46:15 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-11/30/2019 04:46:15 PM - LoginPage - INFO: Element found with locator: [name = commit] and locatorType: css
-11/30/2019 04:46:17 PM - LoginPage - INFO: Clicked on element with locator: [name = commit] locatorType: css
-11/30/2019 04:46:17 PM - LoginPage - INFO: Element found with locator: .alert.alert-danger and locatorType: css
-11/30/2019 04:46:17 PM - LoginPage - INFO: Element Found
-11/30/2019 04:46:22 PM - LoginPage - INFO: Element not found with locator: Login and locatorType: link
-11/30/2019 04:46:22 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
-11/30/2019 04:46:22 PM - LoginPage - INFO: Element found with locator: user_email and locatorType: id
-11/30/2019 04:46:22 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-11/30/2019 04:46:22 PM - LoginPage - INFO: Element found with locator: user_password and locatorType: id
-11/30/2019 04:46:22 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-11/30/2019 04:46:22 PM - LoginPage - INFO: Element found with locator: [name = commit] and locatorType: css
-11/30/2019 04:46:27 PM - LoginPage - INFO: Clicked on element with locator: [name = commit] locatorType: css
-11/30/2019 04:46:27 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Title verified
-11/30/2019 04:46:27 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Leonidus\PycharmProjects\Targil\base\../screenshots/Title verified.1575125187087.png
-11/30/2019 04:46:27 PM - LoginPage - INFO: Element found with locator: gravatar and locatorType: class
-11/30/2019 04:46:27 PM - LoginPage - INFO: Element Found
-11/30/2019 04:46:27 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was not successful
-11/30/2019 04:46:27 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
-11/30/2019 04:55:37 PM - LoginPage - INFO: Element found with locator: Login and locatorType: link
-11/30/2019 04:55:37 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-11/30/2019 04:55:41 PM - LoginPage - INFO: Element found with locator: user_email and locatorType: id
-11/30/2019 04:55:41 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-11/30/2019 04:55:41 PM - LoginPage - INFO: Element found with locator: user_password and locatorType: id
-11/30/2019 04:55:41 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-11/30/2019 04:55:41 PM - LoginPage - INFO: Element found with locator: [name = commit] and locatorType: css
-11/30/2019 04:55:43 PM - LoginPage - INFO: Clicked on element with locator: [name = commit] locatorType: css
-11/30/2019 04:55:43 PM - LoginPage - INFO: Element found with locator: .alert.alert-danger and locatorType: css
-11/30/2019 04:55:43 PM - LoginPage - INFO: Element Found
-11/30/2019 04:55:48 PM - LoginPage - INFO: Element not found with locator: Login and locatorType: link
-11/30/2019 04:55:48 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
-11/30/2019 04:55:48 PM - LoginPage - INFO: Element found with locator: user_email and locatorType: id
-11/30/2019 04:55:48 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-11/30/2019 04:55:48 PM - LoginPage - INFO: Element found with locator: user_password and locatorType: id
-11/30/2019 04:55:48 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-11/30/2019 04:55:48 PM - LoginPage - INFO: Element found with locator: [name = commit] and locatorType: css
-11/30/2019 04:55:53 PM - LoginPage - INFO: Clicked on element with locator: [name = commit] locatorType: css
-11/30/2019 04:55:53 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 04:55:53 PM - LoginPage - INFO: Element found with locator: gravatar and locatorType: class
-11/30/2019 04:55:53 PM - LoginPage - INFO: Element Found
-11/30/2019 04:55:53 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was not successful
-11/30/2019 04:55:53 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
-11/30/2019 05:18:18 PM - LoginPage - INFO: Element found with locator: Login and locatorType: link
-11/30/2019 05:18:18 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-11/30/2019 05:18:23 PM - LoginPage - INFO: Element found with locator: user_email and locatorType: id
-11/30/2019 05:18:23 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-11/30/2019 05:18:23 PM - LoginPage - INFO: Element found with locator: user_password and locatorType: id
-11/30/2019 05:18:23 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-11/30/2019 05:18:23 PM - LoginPage - INFO: Element found with locator: [name = commit] and locatorType: css
-11/30/2019 05:18:25 PM - LoginPage - INFO: Clicked on element with locator: [name = commit] locatorType: css
-11/30/2019 05:18:25 PM - LoginPage - INFO: Element found with locator: .alert.alert-danger and locatorType: css
-11/30/2019 05:18:25 PM - LoginPage - INFO: Element Found
-11/30/2019 05:18:30 PM - LoginPage - INFO: Element not found with locator: Login and locatorType: link
-11/30/2019 05:18:30 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
-11/30/2019 05:18:30 PM - LoginPage - INFO: Element found with locator: user_email and locatorType: id
-11/30/2019 05:18:31 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-11/30/2019 05:18:31 PM - LoginPage - INFO: Element found with locator: user_password and locatorType: id
-11/30/2019 05:18:31 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-11/30/2019 05:18:31 PM - LoginPage - INFO: Element found with locator: [name = commit] and locatorType: css
-11/30/2019 05:18:35 PM - LoginPage - INFO: Clicked on element with locator: [name = commit] locatorType: css
-11/30/2019 05:18:35 PM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
-11/30/2019 05:18:35 PM - Util - INFO: Expected Text From Application Web UI --> :: Let's Kode It
-11/30/2019 05:18:35 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
-11/30/2019 05:18:35 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 05:18:35 PM - LoginPage - INFO: Element found with locator: gravatar and locatorType: class
-11/30/2019 05:18:35 PM - LoginPage - INFO: Element Found
-11/30/2019 05:18:35 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login was not successful
-11/30/2019 05:18:35 PM - TestStatus - INFO: test_validLogin ### TEST SUCCESSFUL
+11/30/2019 06:51:33 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 06:51:33 PM - MainPage - INFO: Element Found
+11/30/2019 06:51:33 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 06:53:47 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 06:53:47 PM - MainPage - INFO: Element Found
+11/30/2019 06:53:47 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 06:53:47 PM - MainPage - INFO: Element found with locator: categorylist__item and locatorType: class
+11/30/2019 06:56:26 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 06:56:26 PM - MainPage - INFO: Element Found
+11/30/2019 06:56:26 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 06:56:26 PM - MainPage - INFO: Element found with locator: categorylist__item and locatorType: class
+11/30/2019 06:59:34 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 06:59:34 PM - MainPage - INFO: Element Found
+11/30/2019 06:59:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 06:59:34 PM - MainPage - INFO: Element found with locator: categorylist__item and locatorType: class
+11/30/2019 07:05:36 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 07:05:36 PM - MainPage - INFO: Element Found
+11/30/2019 07:05:36 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 07:05:36 PM - MainPage - INFO: Element not found with locator: categorylist__item and locatorType: class
+11/30/2019 07:06:48 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 07:06:48 PM - MainPage - INFO: Element Found
+11/30/2019 07:06:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 07:06:48 PM - MainPage - INFO: Element not found with locator: categorylist__item and locatorType: class
+11/30/2019 07:11:43 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 07:11:43 PM - MainPage - INFO: Element Found
+11/30/2019 07:11:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 07:11:43 PM - MainPage - INFO: Element not found with locator: categorylist__item and locatorType: class
+11/30/2019 07:23:40 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 07:23:40 PM - MainPage - INFO: Element Found
+11/30/2019 07:23:40 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 08:26:17 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 08:26:17 PM - MainPage - INFO: Element present with locator: .nav__logo locatorType: css
+11/30/2019 08:26:17 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 08:30:09 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 08:30:09 PM - MainPage - INFO: Element present with locator: .nav__logo locatorType: css
+11/30/2019 08:30:09 PM - MainPage - INFO: Element found with locator: .hamburger and locatorType: css
+11/30/2019 08:30:09 PM - MainPage - INFO: Clicked on element with locator: .hamburger locatorType: css
+11/30/2019 08:30:09 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 08:30:54 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 08:30:54 PM - MainPage - INFO: Element present with locator: .nav__logo locatorType: css
+11/30/2019 08:30:54 PM - MainPage - INFO: Element found with locator: .hamburger and locatorType: css
+11/30/2019 08:30:54 PM - MainPage - INFO: Clicked on element with locator: .hamburger locatorType: css
+11/30/2019 08:30:54 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 08:33:07 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 08:33:07 PM - MainPage - INFO: Element present with locator: .nav__logo locatorType: css
+11/30/2019 08:33:07 PM - MainPage - INFO: Element found with locator: .hamburger and locatorType: css
+11/30/2019 08:33:08 PM - MainPage - INFO: Clicked on element with locator: .hamburger locatorType: css
+11/30/2019 08:33:10 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+11/30/2019 08:48:20 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
+11/30/2019 08:48:20 PM - MainPage - INFO: Element present with locator: .nav__logo locatorType: css
+11/30/2019 08:48:20 PM - MainPage - INFO: Element found with locator: .hamburger and locatorType: css
+11/30/2019 08:48:20 PM - MainPage - INFO: Clicked on element with locator: .hamburger locatorType: css
+11/30/2019 08:48:22 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
