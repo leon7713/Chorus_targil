@@ -1,53 +1,63 @@
-11/30/2019 06:51:33 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 06:51:33 PM - MainPage - INFO: Element Found
-11/30/2019 06:51:33 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 06:53:47 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 06:53:47 PM - MainPage - INFO: Element Found
-11/30/2019 06:53:47 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 06:53:47 PM - MainPage - INFO: Element found with locator: categorylist__item and locatorType: class
-11/30/2019 06:56:26 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 06:56:26 PM - MainPage - INFO: Element Found
-11/30/2019 06:56:26 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 06:56:26 PM - MainPage - INFO: Element found with locator: categorylist__item and locatorType: class
-11/30/2019 06:59:34 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 06:59:34 PM - MainPage - INFO: Element Found
-11/30/2019 06:59:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 06:59:34 PM - MainPage - INFO: Element found with locator: categorylist__item and locatorType: class
-11/30/2019 07:05:36 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 07:05:36 PM - MainPage - INFO: Element Found
-11/30/2019 07:05:36 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 07:05:36 PM - MainPage - INFO: Element not found with locator: categorylist__item and locatorType: class
-11/30/2019 07:06:48 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 07:06:48 PM - MainPage - INFO: Element Found
-11/30/2019 07:06:48 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 07:06:48 PM - MainPage - INFO: Element not found with locator: categorylist__item and locatorType: class
-11/30/2019 07:11:43 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 07:11:43 PM - MainPage - INFO: Element Found
-11/30/2019 07:11:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 07:11:43 PM - MainPage - INFO: Element not found with locator: categorylist__item and locatorType: class
-11/30/2019 07:23:40 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 07:23:40 PM - MainPage - INFO: Element Found
-11/30/2019 07:23:40 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 08:26:17 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 08:26:17 PM - MainPage - INFO: Element present with locator: .nav__logo locatorType: css
-11/30/2019 08:26:17 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 08:30:09 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 08:30:09 PM - MainPage - INFO: Element present with locator: .nav__logo locatorType: css
-11/30/2019 08:30:09 PM - MainPage - INFO: Element found with locator: .hamburger and locatorType: css
-11/30/2019 08:30:09 PM - MainPage - INFO: Clicked on element with locator: .hamburger locatorType: css
-11/30/2019 08:30:09 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 08:30:54 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 08:30:54 PM - MainPage - INFO: Element present with locator: .nav__logo locatorType: css
-11/30/2019 08:30:54 PM - MainPage - INFO: Element found with locator: .hamburger and locatorType: css
-11/30/2019 08:30:54 PM - MainPage - INFO: Clicked on element with locator: .hamburger locatorType: css
-11/30/2019 08:30:54 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 08:33:07 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 08:33:07 PM - MainPage - INFO: Element present with locator: .nav__logo locatorType: css
-11/30/2019 08:33:07 PM - MainPage - INFO: Element found with locator: .hamburger and locatorType: css
-11/30/2019 08:33:08 PM - MainPage - INFO: Clicked on element with locator: .hamburger locatorType: css
-11/30/2019 08:33:10 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
-11/30/2019 08:48:20 PM - MainPage - INFO: Element found with locator: .nav__logo and locatorType: css
-11/30/2019 08:48:20 PM - MainPage - INFO: Element present with locator: .nav__logo locatorType: css
-11/30/2019 08:48:20 PM - MainPage - INFO: Element found with locator: .hamburger and locatorType: css
-11/30/2019 08:48:20 PM - MainPage - INFO: Clicked on element with locator: .hamburger locatorType: css
-11/30/2019 08:48:22 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+12/01/2019 09:46:35 PM - RecordingPage - INFO: Element found with locator: input[name *= email] and locatorType: css
+12/01/2019 09:46:35 PM - RecordingPage - INFO: Sent data on element with locator: input[name *= email] locatorType: css
+12/01/2019 09:46:35 PM - RecordingPage - INFO: Element found with locator: //*[text() = 'Log In'] and locatorType: xpath
+12/01/2019 09:46:35 PM - RecordingPage - INFO: Clicked on element with locator: //*[text() = 'Log In'] locatorType: xpath
+12/01/2019 09:46:36 PM - RecordingPage - INFO: Element found with locator: input[name *= password] and locatorType: css
+12/01/2019 09:46:36 PM - RecordingPage - INFO: Sent data on element with locator: input[name *= password] locatorType: css
+12/01/2019 09:46:36 PM - RecordingPage - INFO: Element found with locator: //*[text() = 'Continue to Chorus.ai'] and locatorType: xpath
+12/01/2019 09:46:37 PM - RecordingPage - INFO: Clicked on element with locator: //*[text() = 'Continue to Chorus.ai'] locatorType: xpath
+12/01/2019 09:46:41 PM - RecordingPage - INFO: Element found with locator: h2[title *= Meeting] and locatorType: css
+12/01/2019 09:46:41 PM - RecordingPage - INFO: Element present with locator: h2[title *= Meeting] locatorType: css
+12/01/2019 09:46:41 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+12/01/2019 09:46:42 PM - RecordingPage - INFO: Element found with locator: .icon.fa.fa-lg.white.fa-play and locatorType: css
+12/01/2019 09:46:42 PM - RecordingPage - INFO: Clicked on element with locator: .icon.fa.fa-lg.white.fa-play locatorType: css
+12/01/2019 09:46:42 PM - RecordingPage - INFO: Element found with locator: .icon.fa.fa-lg.white.fa-pause and locatorType: css
+12/01/2019 09:46:42 PM - RecordingPage - INFO: Element present with locator: .icon.fa.fa-lg.white.fa-pause locatorType: css
+12/01/2019 09:46:45 PM - RecordingPage - INFO: Element found with locator: //div/span/input and locatorType: xpath
+12/01/2019 09:46:45 PM - RecordingPage - INFO: Sent data on element with locator: //div/span/input locatorType: xpath
+12/01/2019 09:46:48 PM - RecordingPage - INFO: Element found with locator: //button[text() = 'Search'] and locatorType: xpath
+12/01/2019 09:46:48 PM - RecordingPage - INFO: Clicked on element with locator: //button[text() = 'Search'] locatorType: xpath
+12/01/2019 09:46:49 PM - RecordingPage - INFO: Element found with locator: //*[text() = 'show'] and locatorType: xpath
+12/01/2019 09:46:49 PM - RecordingPage - INFO: Element present with locator: //*[text() = 'show'] locatorType: xpath
+12/01/2019 09:47:50 PM - RecordingPage - INFO: Element found with locator: input[name *= email] and locatorType: css
+12/01/2019 09:47:51 PM - RecordingPage - INFO: Sent data on element with locator: input[name *= email] locatorType: css
+12/01/2019 09:47:51 PM - RecordingPage - INFO: Element found with locator: //*[text() = 'Log In'] and locatorType: xpath
+12/01/2019 09:47:51 PM - RecordingPage - INFO: Clicked on element with locator: //*[text() = 'Log In'] locatorType: xpath
+12/01/2019 09:47:53 PM - RecordingPage - INFO: Element found with locator: input[name *= password] and locatorType: css
+12/01/2019 09:47:53 PM - RecordingPage - INFO: Sent data on element with locator: input[name *= password] locatorType: css
+12/01/2019 09:47:53 PM - RecordingPage - INFO: Element found with locator: //*[text() = 'Continue to Chorus.ai'] and locatorType: xpath
+12/01/2019 09:47:53 PM - RecordingPage - INFO: Clicked on element with locator: //*[text() = 'Continue to Chorus.ai'] locatorType: xpath
+12/01/2019 09:47:58 PM - RecordingPage - INFO: Element found with locator: h2[title *= Meeting] and locatorType: css
+12/01/2019 09:47:58 PM - RecordingPage - INFO: Element present with locator: h2[title *= Meeting] locatorType: css
+12/01/2019 09:47:58 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+12/01/2019 09:47:59 PM - RecordingPage - INFO: Element found with locator: .icon.fa.fa-lg.white.fa-play and locatorType: css
+12/01/2019 09:47:59 PM - RecordingPage - INFO: Clicked on element with locator: .icon.fa.fa-lg.white.fa-play locatorType: css
+12/01/2019 09:47:59 PM - RecordingPage - INFO: Element found with locator: .icon.fa.fa-lg.white.fa-pause and locatorType: css
+12/01/2019 09:47:59 PM - RecordingPage - INFO: Element present with locator: .icon.fa.fa-lg.white.fa-pause locatorType: css
+12/01/2019 09:47:59 PM - RecordingPage - INFO: Element found with locator: //div/span/input and locatorType: xpath
+12/01/2019 09:47:59 PM - RecordingPage - INFO: Sent data on element with locator: //div/span/input locatorType: xpath
+12/01/2019 09:47:59 PM - RecordingPage - INFO: Element found with locator: //button[text() = 'Search'] and locatorType: xpath
+12/01/2019 09:47:59 PM - RecordingPage - INFO: Clicked on element with locator: //button[text() = 'Search'] locatorType: xpath
+12/01/2019 09:48:00 PM - RecordingPage - INFO: Element found with locator: //*[text() = 'show'] and locatorType: xpath
+12/01/2019 09:48:00 PM - RecordingPage - INFO: Element present with locator: //*[text() = 'show'] locatorType: xpath
+12/01/2019 09:48:50 PM - RecordingPage - INFO: Element found with locator: input[name *= email] and locatorType: css
+12/01/2019 09:48:51 PM - RecordingPage - INFO: Sent data on element with locator: input[name *= email] locatorType: css
+12/01/2019 09:48:51 PM - RecordingPage - INFO: Element found with locator: //*[text() = 'Log In'] and locatorType: xpath
+12/01/2019 09:48:51 PM - RecordingPage - INFO: Clicked on element with locator: //*[text() = 'Log In'] locatorType: xpath
+12/01/2019 09:48:52 PM - RecordingPage - INFO: Element found with locator: input[name *= password] and locatorType: css
+12/01/2019 09:48:52 PM - RecordingPage - INFO: Sent data on element with locator: input[name *= password] locatorType: css
+12/01/2019 09:48:52 PM - RecordingPage - INFO: Element found with locator: //*[text() = 'Continue to Chorus.ai'] and locatorType: xpath
+12/01/2019 09:48:52 PM - RecordingPage - INFO: Clicked on element with locator: //*[text() = 'Continue to Chorus.ai'] locatorType: xpath
+12/01/2019 09:48:57 PM - RecordingPage - INFO: Element found with locator: h2[title *= Meeting] and locatorType: css
+12/01/2019 09:48:57 PM - RecordingPage - INFO: Element present with locator: h2[title *= Meeting] locatorType: css
+12/01/2019 09:48:57 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title verified
+12/01/2019 09:48:58 PM - RecordingPage - INFO: Element found with locator: .icon.fa.fa-lg.white.fa-play and locatorType: css
+12/01/2019 09:48:58 PM - RecordingPage - INFO: Clicked on element with locator: .icon.fa.fa-lg.white.fa-play locatorType: css
+12/01/2019 09:48:58 PM - RecordingPage - INFO: Element found with locator: .icon.fa.fa-lg.white.fa-pause and locatorType: css
+12/01/2019 09:48:58 PM - RecordingPage - INFO: Element present with locator: .icon.fa.fa-lg.white.fa-pause locatorType: css
+12/01/2019 09:48:58 PM - RecordingPage - INFO: Element found with locator: //div/span/input and locatorType: xpath
+12/01/2019 09:48:58 PM - RecordingPage - INFO: Sent data on element with locator: //div/span/input locatorType: xpath
+12/01/2019 09:48:58 PM - RecordingPage - INFO: Element found with locator: //button[text() = 'Search'] and locatorType: xpath
+12/01/2019 09:48:58 PM - RecordingPage - INFO: Clicked on element with locator: //button[text() = 'Search'] locatorType: xpath
+12/01/2019 09:48:59 PM - RecordingPage - INFO: Element found with locator: //*[text() = 'show'] and locatorType: xpath
+12/01/2019 09:48:59 PM - RecordingPage - INFO: Element present with locator: //*[text() = 'show'] locatorType: xpath

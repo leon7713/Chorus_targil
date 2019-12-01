@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="981248df-8236-4277-922e-959e0726b1ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/home/main_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/base/selenium_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/selenium_driver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/main_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/home/login_tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/base/webdriverfactory.py" beforeDir="false" afterPath="$PROJECT_DIR$/base/webdriverfactory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/main_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/home/recording_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/home/main_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/home/recordingPage_tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unittests for recordingPage_tests.RecordingPageTests">
     <configuration name="login_tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Targil" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -65,7 +64,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Leonidus\PycharmProjects\Targil\tests\home\main_tests.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Leonidus\PycharmProjects\Targil\tests\home\recordingPage_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,8 +73,23 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests for recordingPage_tests.RecordingPageTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Targil" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;recordingPage_tests.RecordingPageTests&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for recordingPage_tests.RecordingPageTests" />
         <item itemvalue="Python.login_tests" />
       </list>
     </recent_temporary>
@@ -101,7 +115,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

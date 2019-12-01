@@ -29,8 +29,7 @@ class WebDriverFactory():
         Returns:
             'WebDriver Instance'
         """
-        # baseURL = "https://learn.letskodeit.com/"
-        baseURL = "https://www.eurosport.ru/"
+        baseURL = "https://chorus.ai/meeting/602925?tab=comments&call=415473F6505845088F020C86560C2762"
         if self.browser == "iexplorer":
             # Set ie driver
             driver = webdriver.Ie()
